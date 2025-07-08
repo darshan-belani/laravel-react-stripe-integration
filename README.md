@@ -1,6 +1,6 @@
 # Laravel + React Stripe integration Application
 
-This project is a full-stack CRUD (Create, Read, Update, Delete) web application built using Laravel on the backend and React (via Inertia.js) on the frontend. It provides a seamless, modern single-page application (SPA) experience with server-side routing and powerful state management.
+This project is a full-stack web application that demonstrates seamless Stripe integration using Laravel on the backend and React (via Inertia.js) on the frontend. It provides a smooth single-page application (SPA) experience with secure payment handling, leveraging Stripe's powerful API for processing transactions.
 
 ## Installation
 Need to PHP version 8.2 or above, laravel version 11 or above
